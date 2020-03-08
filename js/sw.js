@@ -9,6 +9,8 @@ const CACHE_NAME = 'v1_cache_JmdaElectronics',
     'https://use.fontawesome.com/releases/v5.0.6/webfonts/fa-brands-400.woff2',
     './css/jmda.css',
     './js/script.js',
+    './js/sw.js',
+    './index.html',
     './img/logo_JMDA.png',
     './img/Logo_JMDA.ico'
   ]
