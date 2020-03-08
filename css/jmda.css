@@ -1,0 +1,79 @@
+
+  body{
+        background-color: rgba(240, 248, 255, 0);
+        background-position: center;
+        background-size: cover;
+                }
+      
+          h1{
+            text-align: center;
+            color: #FFD700;
+            text-shadow:4px 4px 2px #acf0c5e5;
+           
+        }
+  h2,h5,h3,p,a {
+      text-align: center;
+      color: rgb(197, 207, 235);
+      background-color: rgba(250, 235, 215, 0);
+      margin: 0;
+      text-shadow: chartreuse;
+       
+  }
+
+  center{
+      align-content: center;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .fa-telegram{
+      color: #128c7e;
+      background-color: rgba(245, 245, 220, 0);
+      font-size:36px;
+  }
+  .fa-whatsapp{
+    color: #25d366;
+    background-color: rgba(245, 245, 220, 0);
+    font-size:36px;   
+}
+.fa-envelope{
+  font-size: 36px;
+}
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: aquamarine ;
+}
+
+div{
+  background: rgba(136, 238, 229, 0.068);
+  width: 30%;
+  float: left;
+  display: block;
+ 
+}
+
+.menu{
+  width: 100%;
+  background: black;
+  list-style: none;
+  margin: 0;
+  padding: 0%;
+}
+.menu li{
+  display: inline-block;
+  padding: 10px 20px;
+}
+.menu li a:hover{
+  background: greenyellow;
+  color: #25d366;
+}
+section{
+  clear: both;
+}
